@@ -82,26 +82,6 @@ For testing the login functionality:
 - **Email:** `demo@example.com`
 - **Password:** `password`
 
-## 🎨 Key Features Breakdown
-
-### Particle System
-- Canvas-based particle animation
-- Interactive floating particles
-- Responsive to screen size
-
-### Form Validation
-- Real-time email format validation
-- Password strength checking
-- Visual error indicators
-- Success/error toast messages
-
-### Animation Effects
-- Slide-in animations on page load
-- Typing effect for titles
-- Glitch effect for errors
-- Celebration effect for success
-- Confetti animation on login success
-
 ### Background Video
 Replace `image/video.mp4` with your preferred background video.
 
