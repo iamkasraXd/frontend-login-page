@@ -1,4 +1,4 @@
-# 🔐 Advanced Login Page
+# 🔐 Login Page Template
 
 A modern, animated, and responsive login page built with HTML, CSS, and JavaScript featuring glassmorphism design, particle effects, and advanced animations.
 
