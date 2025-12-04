@@ -53,7 +53,7 @@ A modern, animated, and responsive login page built with HTML, CSS, and JavaScri
 
 2. **Navigate to project directory**
    ```bash
-   cd advanced-login-page
+   cd login-page
    ```
 
 3. **Open in browser**
