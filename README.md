@@ -1,4 +1,4 @@
-# Responsive Login Page
+# Login Page
 
 A modern and responsive login page created with HTML, CSS, and JavaScript. It features a clean design with a video background and interactive form elements.
 
@@ -9,10 +9,6 @@ A modern and responsive login page created with HTML, CSS, and JavaScript. It fe
 - **Interactive Form:** Includes email and password fields with intuitive icons.
 - **Show/Hide Password:** A toggle to show or hide the password for better user experience.
 - **Remember Me:** A "Remember me" checkbox that saves the user's email in the browser's local storage for future visits.
-
-## 📸 Screenshot
-
-You can add a screenshot of your project here.
 
 ## 🛠️ Technologies Used
 
