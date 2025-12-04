@@ -40,8 +40,6 @@ A modern, animated, and responsive login page built with HTML, CSS, and JavaScri
 - **Font Awesome** - Icon library
 - **Google Fonts** - Poppins font family
 
-## 🚀 Getting Started
-
 ### Prerequisites
 - Modern web browser (Chrome, Firefox, Safari, Edge)
 - Local web server (optional)
@@ -50,7 +48,7 @@ A modern, animated, and responsive login page built with HTML, CSS, and JavaScri
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/advanced-login-page.git
+   git clone https://github.com/iamkasraXd/login-page.git
    ```
 
 2. **Navigate to project directory**
@@ -104,68 +102,12 @@ For testing the login functionality:
 - Celebration effect for success
 - Confetti animation on login success
 
-### Security Features
-- SSL encryption badge
-- Form validation
-- XSS protection considerations
-- Local storage for preferences
-
-## 🔧 Customization
-
-### Colors
-Edit the CSS variables in `main.css`:
-```css
-:root {
-  --primary-color: #007bff;
-  --secondary-color: #0056b3;
-  --success-color: #28a745;
-  --error-color: #dc3545;
-}
-```
-
-### Animations
-Modify animation durations and effects in the CSS:
-```css
-.login-form {
-  animation: slideInScale 0.8s cubic-bezier(0.25, 0.46, 0.45, 0.94);
-}
-```
-
 ### Background Video
 Replace `image/video.mp4` with your preferred background video.
-
-## 📱 Browser Support
-
-- ✅ Chrome 60+
-- ✅ Firefox 55+
-- ✅ Safari 12+
-- ✅ Edge 79+
-
-## 🤝 Contributing
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- Font Awesome for icons
-- Google Fonts for typography
-- Inspiration from modern UI/UX trends
-- Glassmorphism design principles
-
-## 📞 Contact
-
-Your Name - [@yourusername](https://twitter.com/yourusername) - email@example.com
-
-Project Link: [https://github.com/yourusername/advanced-login-page](https://github.com/yourusername/advanced-login-page)
-
----
 
 ⭐ **Star this repo if you found it helpful!**
